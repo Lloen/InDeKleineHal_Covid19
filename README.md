@@ -1,6 +1,1 @@
-
-<h3 align="center">Laravel</h3>
-
-</br>
-
-<h3 align="center">Bootstrap</h3>
+Due to the covid-19 pandemic it was necessary for the catering sector in Belgium to register the clients accessing the place. I was asked to build a registration form for a smooth and easy progress for the clients and a way to export such information when needed. The website was built for mobile-first in mind using Laravel as the back-end and Bootstrap as the front-end.
